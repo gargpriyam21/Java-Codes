@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;CruxDec25_2016/src/Lecture12/Dynamicstack.java&apos; to &apos;DynamicStack.java&apos;" description="Rename resource &apos;Dynamicstack.java&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/Lecture12/Dynamicstack.java" name="DynamicStack.java" stamp="1486191134524" updateReferences="true"/>
+</session>

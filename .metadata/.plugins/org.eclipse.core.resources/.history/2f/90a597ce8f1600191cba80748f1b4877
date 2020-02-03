@@ -1,0 +1,34 @@
+package CodechefQues.JanChallenge;
+
+import java.util.ArrayList;
+import java.util.Scanner;
+
+public class HP18 {
+
+	public static void main(String[] args) {
+
+		Scanner s = new Scanner(System.in);
+		int NOTC = s.nextInt();
+
+		for (int n = 0; n < NOTC; n++) {
+			int count = 0;
+			int N = s.nextInt();
+			int a = s.nextInt();
+			int b = s.nextInt();
+			ArrayList<Integer> arr = new ArrayList<Integer>();
+
+			for (int i = 0; i < N; i++) {
+				int element = s.nextInt();
+				arr.add(element);
+			}
+
+			while (true) {
+				for (int i = 0; i < arr.size(); i++) {
+
+				}
+			}
+
+		}
+	}
+
+}

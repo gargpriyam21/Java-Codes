@@ -1,0 +1,26 @@
+package Aditya.Contest_29June;
+
+import java.util.Scanner;
+
+public class QI {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		Scanner s = new Scanner(System.in);
+
+		int T = s.nextInt();
+
+		for (int t = 0; t < T; t++) {
+			double n = s.nextDouble();
+			
+			int iy=4;
+			
+			iy >> 1;
+
+			System.out.println(Math.exp(Math.pow(n, (0.1))));
+		}
+
+	}
+
+}

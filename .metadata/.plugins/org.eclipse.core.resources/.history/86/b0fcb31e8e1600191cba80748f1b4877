@@ -1,0 +1,19 @@
+package CodechefQues.JanChallenge;
+
+import java.util.Scanner;
+
+public class HP18 {
+
+	public static void main(String[] args) {
+
+		Scanner s = new Scanner(System.in);
+		int NOTC = s.nextInt();
+
+		for (int n = 0; n < NOTC; n++) {
+			int N = s.nextInt();
+			int a = s.nextInt();
+			int b = s.nextInt();
+		}
+	}
+
+}

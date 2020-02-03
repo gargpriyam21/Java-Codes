@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;CruxDec25_2016/src/Assignment14_HashtableandHeaps&apos; to &apos;Assignment14_HashtableAndHeaps&apos;" description="Rename resource &apos;Assignment14_HashtableandHeaps&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/Assignment14_HashtableandHeaps" name="Assignment14_HashtableAndHeaps" stamp="1490420954617" updateReferences="true"/>
+</session>
